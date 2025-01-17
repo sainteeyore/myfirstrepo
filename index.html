@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First HTML Output no.1</title>
+    <link rel="icon" type="image/x-icon" href="Smcc_logo.gif">
+</head>
+<body style="font-family:Arial, Helvetica, sans-serif;">
+    <h1 style="text-align: center;">This is a sample heading</h1>
+    <h2>This is a sample heading</h2>
+    <h3>This is a sample heading</h3>
+    <h4>This is a sample heading</h4>
+    <h5>This is a sample heading</h5>
+    <h6>This is a sample heading</h6>
+
+    <!-- this is first paragraph -->
+    <p style="color: rebeccapurple; font-weight: bold;"><i>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium repellendus dolorum inventore, neque incidunt officiis facere deserunt eum perferendis at nulla magni repellat? Itaque perspiciatis harum nihil, optio eligendi ipsam!</i></p>
+
+<!-- this is second paragraph -->
+    <p><b style="color: blue">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolores optio quam atque assumenda quas iste vitae, impedit, totam, perferendis officiis nihil iusto illo ipsam qui dignissimos velit autem quia!</b>
+    <u>Dolorem suscipit numquam nihil odit cumque. Ducimus ipsum molestiae facere assumenda est ipsam quidem itaque dolores, tempora, odit esse nisi officiis similique corrupti suscipit facilis deserunt. Suscipit incidunt sunt optio?</u>
+    Provident obcaecati, voluptatum est perferendis explicabo tenetur ducimus pariatur. Sapiente, vero quaerat aut, nostrum magnam magni nihil eos nemo, odit quasi voluptatum error. Dolore repudiandae excepturi, ipsam eos corrupti corporis?</p>
+
+
+    <ul>
+        <li>fisrt item</li>
+        <li>second item</li>
+        <li>third item</li>
+        <li>fourth item</li>
+        <li>fifth item</li>
+    </ul>
+
+    
+    <ol>
+    <li>oop</li>
+    <li>web technologies</li>
+    <li>comprog 1</li>
+</ol>
+<a href="https://www.facebook.com/" target="_blank">Go to facebook</a><br>
+<a href="page2.html" target="_blank">Go to next page</a>
+<br><br>
+<img src="html 5.png" alt="This is html 5 logo" height="250px">
+</body>
+</html>
